@@ -1,4 +1,4 @@
-# WWDC19
+# Finley's Journey
 
 This was the submission for which Apple awarded me a WWDC19 Scholarship. It is a Swift Playgrounds book powered by SpriteKit.
 
